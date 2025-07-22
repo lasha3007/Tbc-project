@@ -110,6 +110,7 @@ section {
   flex-wrap: wrap;
   gap: 30px;
   justify-content: center;
+  margin-top: 10px;
 }
 
 .card, .cardss {
